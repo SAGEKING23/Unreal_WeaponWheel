@@ -1,0 +1,103 @@
+# Unreal Engine
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Binaries/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.orig
+*.old
+*.bak
+*.pch
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.opt
+*.plg
+*.tlog
+*.idb
+*.ilk
+*.lib
+*.exp
+*.obj
+*.dll
+*.exe
+*.manifest
+*.res
+*.rc
+*.rc2
+*.ico
+*.cur
+*.bmp
+*.pch
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.opt
+*.plg
+*.tlog
+*.idb
+*.ilk
+*.lib
+*.exp
+*.obj
+*.dll
+*.exe
+*.manifest
+*.res
+*.rc
+*.rc2
+*.ico
+*.cur
+*.bmp
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Unreal specific
+*.log
+*.dmp
+*.crashreport
+*.crashreport.client
+*.crashreport.server
+
+# Local config
+/Config/Local/
+*.local.json
+
+# Build artifacts
+/Plugins/*/Binaries/
+/Plugins/*/Intermediate/
+/Plugins/*/Build/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
